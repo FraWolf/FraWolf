@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello everyone!
 
-<!--
-**FraWolf/FraWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I code in:
+### Languages
+- Javascript (Node.js & React)
+- C / C++
+- Python
+### Databases
+- Mongo DB
+- MySQL
+- PostgreSQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status:
+- Developer from [Sea Of Thieves Italia](https://discord.gg/SeaOfThievesIT)
+- Developer from [Destiny 2 Italia](https://discord.gg/jWKBUCg)
+- Owner from [Temtem Italia](https://temtem-italia.it)
