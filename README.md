@@ -5,10 +5,12 @@
 - Javascript (Node.js & React)
 - C / C++
 - Python
+- PHP
 ### Databases
-- Mongo DB
+- MongoDB
 - MySQL
 - PostgreSQL
+- Quick.db
 
 ## Status:
 - Developer from [Sea Of Thieves Italia](https://discord.gg/SeaOfThievesIT)
