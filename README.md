@@ -13,6 +13,6 @@
 - Quick.db
 
 ## Status:
-- Developer from [Sea Of Thieves Italia](https://discord.gg/SeaOfThievesIT)
-- Developer from [Destiny 2 Italia](https://discord.gg/jWKBUCg)
-- Owner from [Temtem Italia](https://temtem-italia.it)
+- Developer for [Sea Of Thieves Italia](https://discord.gg/SeaOfThievesIT)
+- Developer for [Destiny 2 Italia](https://discord.gg/jWKBUCg)
+- Owner of [Temtem Italia](https://temtem-italia.it)
