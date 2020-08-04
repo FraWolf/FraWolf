@@ -10,6 +10,7 @@
 - MongoDB
 - MySQL
 - PostgreSQL
+- SQLite
 - Quick.db
 
 ## Status:
