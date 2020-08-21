@@ -10,8 +10,6 @@
 - MongoDB
 - MySQL
 - PostgreSQL
-- SQLite
-- Quick.db
 
 ## Status:
 - Developer for [Sea Of Thieves Italia](https://discord.gg/SeaOfThievesIT)
