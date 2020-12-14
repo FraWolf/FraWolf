@@ -1,21 +1,24 @@
-### Hello everyone! 🐺
+### Heya, I'm Francesco Lombardo - aka [FraWolf][website] 👋
 
-## I code in:
-### Languages
-- Javascript (Node.js & React)
-- C / C++
-- Python
-- PHP
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
+## I'm a Student and Web Back-End Developer.
 
-## Status:
-- Developer for [Sea Of Thieves Italia](https://discord.gg/SeaOfThievesIT)
-- Developer for [Destiny 2 Italia](https://discord.gg/jWKBUCg)
-- Owner of [Temtem Italia](https://discord.com/invite/6UNBYUn)
+- 🔭 I’m currently working on many projects!
+- 🌱 I’m currently learning Fullstack.
+- 💼 I’m looking for a job as web back-end developer.
+- 🥅 2020 Goals: Improve my code writing.
 
-## Listening to:
+### What I'm listening:
+
 [![Spotify](https://now-playing.frawolf.it/api/spotify-playing)](https://open.spotify.com/user/8ah613z3pejhnn3uvwhqy8hvb)
 
+### Connect with me:
+
+[<img align="left" alt="FraWolf | Website" width="22px" style="fill: red;" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="FraWolf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="FraWolf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FraWolf | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+
+[website]: https://frawolf.it
+[twitter]: https://twitter.com/FraWolf__
+[linkedin]: https://www.linkedin.com/in/francesco-lombardo-454988163/
+[mail]: mailto:frawolf@outlook.it
