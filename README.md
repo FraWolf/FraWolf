@@ -14,6 +14,8 @@
 [<img align="left" alt="FraWolf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FraWolf | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 
+<br>
+
 ### What I'm listening:
 
 [![Spotify](https://now-playing.frawolf.it/api/spotify-playing)](https://open.spotify.com/user/8ah613z3pejhnn3uvwhqy8hvb)
