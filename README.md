@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Fullstack.
 - 💼 I’m looking for a job as web back-end developer.
 - 🥅 2020 Goals: Improve my code writing.
+- ⚡ Fun fuct: I love Blockchains and Cryptos.
 
 ### Connect with me:
 
