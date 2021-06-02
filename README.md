@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Improve my code writing.
 - ⚡ Fun fuct: I love Blockchains and Cryptos.
 
-### Currently working on...
+### Currently working on
 - [Phantom Website](https://phantomsec.dev), the site of my startup.
 - [OverInsier - Overwatch Discord Bot](https://top.gg/bot/768147122901876827)
 - [REDACTED] Project Releated to Blockchain
