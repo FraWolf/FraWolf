@@ -1,10 +1,10 @@
 ### Heya, I'm Francesco Lombardo - aka [FraWolf][website] 👋
 
-## I'm a Student and Web Back-End Developer.
+## I'm a Full Stack Web Developer.
 
 - 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning Fullstack.
-- 💼 I’m looking for a job as web back-end developer.
+- 🌱 I’m currently learning TypeScript.
+- 💼 I’m looking for a job as web developer.
 - 🥅 2021 Goals: Improve my code writing.
 - ⚡ Fun fuct: I love Blockchains and Cryptos.
 
