@@ -11,6 +11,7 @@
 ### Currently working on
 - [Phantom Website](https://phantomsec.dev), the site of my startup.
 - [OverInsier - Overwatch Discord Bot](https://top.gg/bot/768147122901876827)
+- [Quria, NodeJS Destiny2 API Wrapper](https://www.npmjs.com/package/quria)
 - [REDACTED] Project Releated to Blockchain
 
 ### Connect with me:
