@@ -3,16 +3,17 @@
 ## I'm a Full Stack Web Developer.
 
 - 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [NestJS](https://nestjs.com/).
 - 💼 I’m looking for a job as web developer.
 - 🥅 2021 Goals: Improve my code writing.
 - ⚡ Fun fuct: I love Blockchains and Cryptos.
 
 ### Some of my projects:
-- [Phantom Website](https://phantomsec.dev), the site of my startup.
-- [OverInsier](https://top.gg/bot/768147122901876827), Overwatch Discord Bot
-- [Quria](https://www.npmjs.com/package/quria), NodeJS Destiny2 API Wrapper
-- [REDACTED] Project Releated to Blockchain
+- [Phantom Website](https://phantomsec.dev), the site of my startup;
+- [OverInsier](https://top.gg/bot/768147122901876827), Overwatch Discord Bot;
+- [Quria](https://www.npmjs.com/package/quria), NodeJS Destiny2 API Wrapper;
+- [MCServerItalia](https://mcserveritalita.it), Rebranding and Development of the new website;
+- [REDACTED] Project Releated to Blockchain;
 
 ### Connect with me:
 
