@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Improve my code writing.
 - ⚡ Fun fuct: I love Blockchains and Cryptos.
 
-### Currently working on
+### Some of my projects:
 - [Phantom Website](https://phantomsec.dev), the site of my startup.
 - [OverInsier](https://top.gg/bot/768147122901876827), Overwatch Discord Bot
 - [Quria](https://www.npmjs.com/package/quria), NodeJS Destiny2 API Wrapper
