@@ -36,7 +36,7 @@
 
 [![Spotify](https://now-playing.frawolf.it/api/spotify-playing)](https://open.spotify.com/user/8ah613z3pejhnn3uvwhqy8hvb)
 
-[website]: https://frawolf.it
+[website]: https://phantomsec.dev
 [twitter]: https://twitter.com/FraWolf__
 [linkedin]: https://www.linkedin.com/in/francesco-lombardo-454988163/
 [mail]: mailto:frawolf@outlook.it
