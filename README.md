@@ -3,7 +3,7 @@
 ## I'm a Full Stack Web Developer.
 
 - 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/) and [SvelteKIt](https://kit.svelte.dev/).
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/) and [SvelteKit](https://kit.svelte.dev/).
 - 💼 I’m looking for a job as web developer.
 - 🥅 2021 Goals: Improve my code writing.
 - ⚡ Fun fuct: I love Blockchains and Cryptos.
