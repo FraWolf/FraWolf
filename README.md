@@ -31,10 +31,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frawolf&layout=compact)
 
 ---
-
+<!-- 
 ### What I'm listening:
 
-[![Spotify](https://now-playing.frawolf.it/api/spotify-playing)](https://open.spotify.com/user/8ah613z3pejhnn3uvwhqy8hvb)
+[![Spotify](https://now-playing.frawolf.it/api/spotify-playing)](https://open.spotify.com/user/8ah613z3pejhnn3uvwhqy8hvb) -->
 
 [website]: https://phantomsec.dev
 [twitter]: https://twitter.com/FraWolf__
