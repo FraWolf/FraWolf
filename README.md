@@ -2,6 +2,16 @@
 
 ## I'm a Full Stack Web Developer.
 
+<div align="left">
+  
+  <a href="https://api.daily.dev/get?r=FraWolf" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/FraWolf/FraWolf/devcard/devcard.svg"
+    />
+  </a>
+  
 - 🔭 I’m currently working on many projects!
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/) and [SvelteKit](https://kit.svelte.dev/).
 - 💼 I’m looking for a job as web developer.
@@ -21,6 +31,7 @@
 [<img align="left" alt="FraWolf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FraWolf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FraWolf | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+</div>
 
 <br />
 
