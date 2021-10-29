@@ -9,6 +9,7 @@
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/FraWolf/FraWolf/devcard/devcard.svg"
+      alt="Francesco Lombardo's DevCard"
     />
   </a>
   
