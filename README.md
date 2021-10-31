@@ -22,7 +22,7 @@
 ### Some of my projects:
 - [Phantom Website](https://phantomsec.dev), the site of my startup;
 - [OverInsier](https://top.gg/bot/768147122901876827), Overwatch Discord Bot;
-- [Quria](https://www.npmjs.com/package/quria), NodeJS Destiny2 API Wrapper;
+- [Quria](https://www.npmjs.com/package/quria), NodeJS Destiny 2 API Wrapper;
 - [MCServerItalia](https://mcserveritalia.it), Rebranding and Development of the new website;
 - [REDACTED] Project Releated to Blockchain;
 
