@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/) and [SvelteKit](https://kit.svelte.dev/).
 - 💼 I’m looking for a job as web developer.
 - 🥅 2021 Goals: Improve my code writing.
-- ⚡ Fun fuct: I love Blockchains and Cryptos.
+- ⚡ Fun fact: I love Blockchains and Cryptos.
 
 ### Some of my projects:
 - [Phantom Website](https://phantomsec.dev), the site of my startup;
