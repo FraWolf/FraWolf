@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on many projects!
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/) and [SvelteKit](https://kit.svelte.dev/).
 - 💼 I’m looking for a job as web developer.
-- 🥅 2021 Goals: Improve my code writing.
+- 🥅 2022 Goals: Learn Solidity.
 - ⚡ Fun fact: I love Blockchains and Cryptos.
 
 ### Some of my projects:
