@@ -14,8 +14,8 @@
   </a>
   
 - 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [NestJS](https://nestjs.com/) and [SvelteKit](https://kit.svelte.dev/).
-- 💼 I’m looking for a job as web developer.
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [SvelteKit](https://kit.svelte.dev/).
+- 💼 Currently Junior Full Stack Developer at [Aryel](https://aryel.io)
 - 🥅 2022 Goals: Learn Solidity.
 - ⚡ Fun fact: I love Blockchains and Cryptos.
 
@@ -48,7 +48,7 @@
 [![Spotify](https://now-playing.frawolf.it/api/spotify-playing)](https://open.spotify.com/user/8ah613z3pejhnn3uvwhqy8hvb)
 -->
 
-[website]: https://phantomsec.dev
+[website]: https://frawolf.dev
 [twitter]: https://twitter.com/FraWolf__
 [linkedin]: https://www.linkedin.com/in/francesco-lombardo-454988163/
 [mail]: mailto:frawolf@outlook.it
