@@ -14,7 +14,7 @@
   </a>
   
 - 🔭 I’m currently working on many projects!
-- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/), [SvelteKit](https://kit.svelte.dev/).
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/) & [SvelteKit](https://kit.svelte.dev/).
 - 💼 Currently Junior Full Stack Developer at [Aryel](https://aryel.io)
 - 🥅 2022 Goals: Learn Solidity.
 - ⚡ Fun fact: I love Blockchains and Cryptos.
