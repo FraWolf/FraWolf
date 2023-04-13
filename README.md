@@ -42,12 +42,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frawolf&layout=compact)
 
----
-
-### Holobadges:
-
-[![@frawolf's Holopin board](https://holopin.io/api/user/board?user=frawolf)](https://holopin.io/@frawolf)
-
 <!-- ---
 ### What I'm listening:
 
